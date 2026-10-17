@@ -18,4 +18,4 @@
            with:
              context: .
              push: true
-             tags: ${{ secrets.DOCKERHUB_USERNAME }}/comfy-custom:cu128-v1
+             tags: ${{ secrets.DOCKERHUB_USERNAME }}/comfy-custom:cu128-v3
