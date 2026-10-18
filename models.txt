@@ -20,5 +20,6 @@ https://civitai.red/api/download/models/3207249?fileId=3089257|loras|assandthigh
 https://civitai.red/api/download/models/3216551?fileId=3098361|loras|pawg.safetensors
 https://civitai.red/api/download/models/3118444?fileId=2998737|loras|innie.safetensors
 https://civitai.red/api/download/models/3346612?fileId=3235592|loras|sideanal.safetensors
+https://civitai.red/api/download/models/3110879?fileId=2990916|loras|fakelips.safetensors
 https://huggingface.co/Quiho/Krea2_TextFusion_Refusal-Reduction_LoRA_v1.0_lora/resolve/main/Krea2_TextFusion_Refusal_Reduction.safetensors|loras
 https://huggingface.co/martineux/altkreas/resolve/e88d5cbfa7ca5105892f68a7f74edc63bc1bb379/Detailer-KREA2.safetensors|loras
