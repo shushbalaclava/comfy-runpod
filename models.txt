@@ -26,5 +26,6 @@ https://civitai.red/api/download/models/3389654?fileId=3278914|loras|igbaddie.sa
 https://civitai.red/api/download/models/3293443?fileId=3178375|loras|bimbo.safetensors
 https://civitai.red/api/download/models/3131773?fileId=3012392|loras|breastslider.safetensors
 https://civitai.red/api/download/models/3277262?fileId=3161352|loras|goodgirl.safetensors
+https://civitai.red/api/download/models/3192618?fileId=3073398|loras|realAndFakeBreastSlider.safetensors
 https://huggingface.co/Quiho/Krea2_TextFusion_Refusal-Reduction_LoRA_v1.0_lora/resolve/main/Krea2_TextFusion_Refusal_Reduction.safetensors|loras
 https://huggingface.co/martineux/altkreas/resolve/e88d5cbfa7ca5105892f68a7f74edc63bc1bb379/Detailer-KREA2.safetensors|loras
