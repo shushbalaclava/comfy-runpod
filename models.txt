@@ -10,11 +10,11 @@ https://huggingface.co/Tenofas/ComfyUI/resolve/main/ultralytics/bbox/face_yolov8
 https://huggingface.co/Tenofas/ComfyUI/resolve/main/ultralytics/bbox/hand_yolov8s.pt|ultralytics/bbox
 https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8m-seg.pt|ultralytics/segm
 https://huggingface.co/kuuroo/U_ltralytics/resolve/3217c8a969136e872145b0191d484c9247f23197/bbox/vagina-v4.2.pt|ultralytics/bbox
+https://huggingface.co/Quiho/Krea2_TextFusion_Refusal-Reduction_LoRA_v1.0_lora/resolve/main/Krea2_TextFusion_Refusal_Reduction.safetensors|loras
 https://civitai.red/api/download/models/3198266?fileId=3079351|loras|AltGirlKrea.safetensors
 https://civitai.red/api/download/models/3191538?fileId=3072276|loras|BloomGirlsKrea2.safetensors
 https://civitai.red/api/download/models/3109006?fileId=2988982|loras|RealismEngine.safetensors
 https://civitai.red/api/download/models/3084537?fileId=2963911|loras|RealisticSnapshot.safetensors
-https://civitai.com/api/download/models/3359022?fileId=3246659|loras|RefusalReduction.safetensors
 https://civitai.red/api/download/models/3120387?fileId=3000690|loras|areola_size_krea2_loraholic.safetensors
 https://civitai.red/api/download/models/3207249?fileId=3089257|loras|assandthighsslider.safetensors
 https://civitai.red/api/download/models/3216551?fileId=3098361|loras|pawg.safetensors
