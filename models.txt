@@ -30,5 +30,6 @@ https://civitai.red/api/download/models/3192618?fileId=3073398|loras|realAndFake
 https://civitai.red/api/download/models/3254961?fileId=3138025|loras|rhinoplasty.safetensors
 https://civitai.red/api/download/models/3105253?fileId=2985077|loras|analhelper.safetensors
 https://civitai.red/api/download/models/3170393?fileId=3050815|loras|labiaMinoraSlider.safetensors
+https://civitai.red/api/download/models/3275163?fileId=3159176|loras|anusHelper.safetensors
 https://huggingface.co/Quiho/Krea2_TextFusion_Refusal-Reduction_LoRA_v1.0_lora/resolve/main/Krea2_TextFusion_Refusal_Reduction.safetensors|loras
 https://huggingface.co/martineux/altkreas/resolve/e88d5cbfa7ca5105892f68a7f74edc63bc1bb379/Detailer-KREA2.safetensors|loras
